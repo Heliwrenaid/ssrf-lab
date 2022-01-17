@@ -1,0 +1,10 @@
+Home:
+  url: ~^/$~
+Task1:
+  url: ~^/task1$~
+Task2:
+  url: ~^/task2$~
+Task3:
+  url: ~^/task3$~
+SecretAccess:
+  url: ~^/secret/(.*)~
